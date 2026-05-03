@@ -1,27 +1,63 @@
-- 👋 Hi, I’m @Saket8538
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Saket Kumar</h1>
 
-<!---
-Saket8538/Saket8538 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-### Hi there 👋, Welcome!
+<p align="center">
+  <a href="https://github.com/Saket8538">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=560&lines=Community+Manager;Mobile+%26+Web+Developer;Project+Manager;Open+Source+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saket8538&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/Saket8538?tab=followers">
+    <img src="https://img.shields.io/github/followers/Saket8538?label=Followers&style=social" alt="followers" />
+  </a>
+</p>
 
+---
 
+### About me
+- 👀 Interested in community building, mobile & web development, and project delivery.
+- 🌱 Currently learning modern frontend and cloud-native practices.
+- 💞️ Open to collaborating on impactful open-source and community projects.
+- 📫 Reach me on the social links below.
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I love turning ideas into shippable products.
 
-**Skills:**  
-Community Management | Mobile and Web Development | Project Management  
+### Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,mysql,vscode" alt="tech stack" />
+</p>
 
-**Tools:**   
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png' alt='vscode' height='40'>](https://github.com/saket8538)  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' alt='html' height='40'>](https://www.linkedin.com/in/saketkumar8538/)  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' alt='css' height='40'>](https://www.instagram.com/saket8538/)  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' alt='reactjs' height='40'>](https://twitter.com/saket8538)  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' alt='js' height='40'>]()  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png' alt='git' height='40'>](https://github.com/saket8538) [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png' alt='mysql' height='40'>](https://www.instagram.com/saket8538/)  [<img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='github' height='40'>](https://twitter.com/saket8538) 
+### Tools & Platforms
+<p align="left">
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code" /></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=white" alt="Git" /></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/Platform-GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
+### GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saket8538&show_icons=true&theme=transparent&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saket8538&theme=transparent&hide_border=true" height="170" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saket8538&layout=compact&theme=transparent&hide_border=true" height="150" />
+</p>
 
+### Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saket8538&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" alt="activity graph" />
+</p>
 
--
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saket8538)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saketkumar8538/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/saket8538/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/saket8538)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>]()  
+### Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saket8538&theme=algolia&no-frame=true&margin-w=10" alt="trophies" />
+</p>
+
+### Connect with me
+<p align="left">
+  <a href="https://github.com/saket8538"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="32" alt="github" /></a>
+  <a href="https://www.linkedin.com/in/saketkumar8538/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="32" alt="linkedin" /></a>
+  <a href="https://www.instagram.com/saket8538/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="32" alt="instagram" /></a>
+  <a href="https://twitter.com/saket8538"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" height="32" alt="twitter" /></a>
+</p>
