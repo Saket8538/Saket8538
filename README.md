@@ -56,7 +56,7 @@
 
 ### Connect with me
 <p align="left">
-  <a href="https://github.com/saket8538"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="32" alt="github" /></a>
+  <a href="https://github.com/Saket8538"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="32" alt="github" /></a>
   <a href="https://www.linkedin.com/in/saketkumar8538/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="32" alt="linkedin" /></a>
   <a href="https://www.instagram.com/saket8538/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="32" alt="instagram" /></a>
   <a href="https://twitter.com/saket8538"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" height="32" alt="twitter" /></a>
