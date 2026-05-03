@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Saket8538">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=560&lines=Community+Manager;Mobile+%26+Web+Developer;Project+Manager;Open+Source+Enthusiast" alt="Animated text: Community Manager, Mobile & Web Developer, Project Manager, Open Source Enthusiast" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=560&lines=Community+Manager;Mobile+%26+Web+Developer;Project+Manager;Open+Source+Enthusiast" alt="Animated role titles for Saket Kumar" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 
 ---
 
-### About me
+### About Me
 - 👀 Interested in community building, mobile & web development, and project delivery.
 - 🌱 Currently learning modern frontend and cloud-native practices.
 - 💞️ Open to collaborating on impactful open-source and community projects.
@@ -54,7 +54,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Saket8538&theme=algolia&no-frame=true&margin-w=10" alt="trophies" />
 </p>
 
-### Connect with me
+### Connect with Me
 <p align="left">
   <a href="https://github.com/Saket8538"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="github" /></a>
   <a href="https://www.linkedin.com/in/saketkumar8538/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="linkedin" /></a>
