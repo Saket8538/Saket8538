@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/Saket8538">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=560&lines=Community+Manager;Mobile+%26+Web+Developer;Project+Manager;Open+Source+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=560&lines=Community+Manager;Mobile+%26+Web+Developer;Project+Manager;Open+Source+Enthusiast" alt="Animated text: Community Manager, Mobile & Web Developer, Project Manager, Open Source Enthusiast" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saket8538&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Saket8538&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view counter badge" />
   <a href="https://github.com/Saket8538?tab=followers">
     <img src="https://img.shields.io/github/followers/Saket8538?label=Followers&style=social" alt="followers" />
   </a>
@@ -20,7 +20,7 @@
 - 🌱 Currently learning modern frontend and cloud-native practices.
 - 💞️ Open to collaborating on impactful open-source and community projects.
 - 📫 Reach me on the social links below.
-- 😄 Pronouns: he/him.
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love turning ideas into shippable products.
 
 ### Tech Stack
@@ -46,7 +46,7 @@
 
 ### Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saket8538&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saket8538&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" alt="GitHub contribution activity graph for Saket8538" />
 </p>
 
 ### Trophies
