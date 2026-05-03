@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Saket8538">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&center=true&vCenter=true&width=680&lines=Full-Stack+Developer;Open-Source+Enthusiast;Community-Driven+Builder;Fresher+%7C+Always+Learning" alt="Animated role titles for Saket Kumar" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&center=true&vCenter=true&width=680&lines=Full-Stack+Developer;Open-Source+Enthusiast;Community-Driven+Builder;Fresher+Always+Learning" alt="Animated role titles for Saket Kumar" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 
 ---
 
-### Snapshot
+### Professional Summary
 - 🚀 Full-stack developer focused on clean UI, accessible UX, and reliable APIs.
 - 🌱 Fresher actively sharpening frontend, backend, and deployment fundamentals.
 - 🤝 Open-source enthusiast who enjoys collaborating and learning in public.
