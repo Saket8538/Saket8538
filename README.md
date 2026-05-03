@@ -56,8 +56,8 @@
 
 ### Connect with me
 <p align="left">
-  <a href="https://github.com/Saket8538"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="32" alt="github" /></a>
-  <a href="https://www.linkedin.com/in/saketkumar8538/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="32" alt="linkedin" /></a>
-  <a href="https://www.instagram.com/saket8538/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="32" alt="instagram" /></a>
-  <a href="https://twitter.com/saket8538"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" height="32" alt="twitter" /></a>
+  <a href="https://github.com/Saket8538"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="github" /></a>
+  <a href="https://www.linkedin.com/in/saketkumar8538/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://www.instagram.com/saket8538/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="instagram" /></a>
+  <a href="https://twitter.com/saket8538"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="twitter" /></a>
 </p>
